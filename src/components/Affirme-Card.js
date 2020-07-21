@@ -23,6 +23,9 @@ const openSite = () => {
   window.open('https://twitter.com/affirm_e')
 }
 
+const openGitHub = () => {
+  window.open('https://github.com/Affirm-e/affirmations-project')
+}
 export default function MediaCard() {
   const classes = useStyles();
 
@@ -44,7 +47,7 @@ export default function MediaCard() {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Button size="small" color="primary">
+        <Button size="small" color="primary" onClick={() => openGitHub()}>
           GitHub
         </Button>
         <Button size="small" color="primary" onClick={() => openSite()}>

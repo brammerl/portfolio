@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import './fonts/Bebas_Neue/BebasNeue-Regular.ttf'
+import './fonts/Montserrat/Montserrat-Regular.ttf'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

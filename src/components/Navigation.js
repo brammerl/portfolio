@@ -59,7 +59,7 @@ function LinkTab(props) {
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
-    backgroundColor: theme.palette.background.paper,
+    background: '#3d405b'
   },
 }));
 
@@ -72,8 +72,8 @@ export default function NavTabs() {
   };
 
   return (
-    <div className={classes.root}>
-      <AppBar position="static">
+    <div>
+      <AppBar position="static" className={classes.root}>
         <Tabs
           variant="fullWidth"
           value={value}

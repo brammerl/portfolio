@@ -71,7 +71,7 @@ body, html {
 .title {
   font-family: norwesterregular;
   font-size: 30px;
-  color: #0d3b66;
+  color: #3d405b;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
@@ -144,7 +144,7 @@ body, html {
 .subtitle {
   font-family: norwesterregular;
   font-size: 20px;
-  color: #0d3b66;
+  color:#3d405b;
   text-transform: uppercase;
   display: flex;
   justify-content: center;

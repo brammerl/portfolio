@@ -13,13 +13,15 @@ export default class Projects extends Component {
         </div>
         <Divider orientation="vertical" flexItem />
         <div class='column-2-2-projects'>
-          <h3 className='title'> Projects </h3>
-          <div class='card'>
-          <AffirmeCard/>
+          <h3 class='title'>Projects</h3>
+          <div class='card-container'>
+            <div class='card'>
+              <AffirmeCard/>
+            </div>
+            <div class='card'>
+              <CryptoCard/>
+            </div>  
           </div>
-          <div class='card'>
-          <CryptoCard/>
-          </div>   
         </div>
       </div>
     )

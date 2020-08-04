@@ -90,6 +90,14 @@ body, html {
 /* projects */
 .column-2-2-projects{
   display: flex;
+  flex-direction: column;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
   width: 60%;
   justify-content: center;
 }

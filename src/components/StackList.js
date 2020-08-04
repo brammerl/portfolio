@@ -7,13 +7,11 @@ export default class StackList extends Component {
         <h2 className='title'>Tech</h2>
         <div className='tech-card-container'>
           <div className='tech-card'>
-            <ul className='tech-card'>
               <h3 className='subtitle'>Languages</h3>
               <li>JavaScript</li>
               <li>CSS</li>
               <li>HTML</li>
               <li>R</li>
-            </ul>
           </div>
           <div className='tech-card'>
             <h3 className='subtitle'>Frameworks</h3>

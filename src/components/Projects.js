@@ -13,6 +13,7 @@ export default class Projects extends Component {
         </div>
         <Divider orientation="vertical" flexItem />
         <div class='column-2-2-projects'>
+          <h3 className='title'> Projects </h3>
           <div class='card'>
           <AffirmeCard/>
           </div>

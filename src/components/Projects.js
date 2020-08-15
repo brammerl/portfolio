@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import StackList from './StackList';
 import AffirmeCard from './Affirme-Card';
 import CryptoCard from './Crypto-Stimulus-Card'
+import LastHopeCard from './Last Hope-Card';
 import Divider from '@material-ui/core/Divider';
 
 export default class Projects extends Component {
@@ -21,6 +22,9 @@ export default class Projects extends Component {
             <div class='card'>
               <CryptoCard/>
             </div>  
+            <div class='card'>
+              <LastHopeCard/>
+            </div>
           </div>
         </div>
       </div>

@@ -35,7 +35,7 @@ export default function MediaCard() {
             Last Hope
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-          An app that provides the user with all games on Twitch.com with drops enabled. It also provides users that are supplying drops for each game.  
+          An app that provides the user with all games on Twitch.com that have drops enabled. It also provides the user with a list of streamers that are supplying drops for each game.  
           </Typography>
         </CardContent>
       </CardActionArea>

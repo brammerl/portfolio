@@ -35,7 +35,7 @@ export default function MediaCard() {
             Last Hope
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-          A role based game where the user navigates through space to find humanity's last hope planet. 
+          An app that provides the user with all games on Twitch.com with drops enabled. It also provides users that are supplying drops for each game.  
           </Typography>
         </CardContent>
       </CardActionArea>

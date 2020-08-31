@@ -4,6 +4,7 @@ import AffirmeCard from './Affirme-Card';
 import CryptoCard from './Crypto-Stimulus-Card'
 import LastHopeCard from './Last Hope-Card';
 import Divider from '@material-ui/core/Divider';
+import DropZoneCard from './DropZoneCard';
 
 export default class Projects extends Component {
   render() {
@@ -24,6 +25,9 @@ export default class Projects extends Component {
             </div>  
             <div class='card'>
               <LastHopeCard/>
+            </div>
+            <div>
+              <DropZoneCard />
             </div>
           </div>
         </div>

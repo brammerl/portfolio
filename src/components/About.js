@@ -23,13 +23,13 @@ export default class About extends Component {
               <h2 class='title'>Not At My Desk? You Can Find Me:</h2>
               <ul>
                 <li>
-                  Skateboarding 
+                  Creating community through my organization <a href='https://www.instagram.com/queerskate.pdx/'>Queer Skate PDX </a>
                 </li>
                 <li>
-                  Creating something! (art, digital media, movement) 
+                  Making something! (art, digital media, movement) 
                 </li>
                 <li>
-                  Fostering animals 
+                  Skatboarding
                 </li>
               </ul>
             </div>

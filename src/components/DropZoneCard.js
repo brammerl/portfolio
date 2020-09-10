@@ -32,7 +32,7 @@ export default function MediaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
-            Last Hope
+            Drop Zone
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
           An app that provides the user with all games on Twitch.com that have drops enabled. It also provides the user with a list of streamers that are supplying drops for each game.  

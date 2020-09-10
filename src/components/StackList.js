@@ -16,6 +16,7 @@ export default class StackList extends Component {
           <div className='tech-card'>
             <h3 className='subtitle'>Frameworks</h3>
             <li>React</li>
+            <li>Redux</li>
             <li>Express</li>
           </div>
           <div className='tech-card'>

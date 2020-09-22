@@ -29,7 +29,7 @@ export default class About extends Component {
                   Making something! (art, digital media, movement) 
                 </li>
                 <li>
-                  Skatboarding
+                  Skateboarding
                 </li>
               </ul>
             </div>
